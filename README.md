@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Tomas Escobar Ruiz!
 - 👀 I’m interested in computer science, math and CAD.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning web development with Ruby on Rails.
 - 📫 How to reach me: https://www.linkedin.com/in/tomasescobar0223/
 - ⚡ Fun fact: I love to play and design guitars
 
