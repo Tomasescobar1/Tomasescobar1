@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science, math and CAD.
 - 🌱 I’m currently learning web development with Ruby on Rails.
 - 📫 How to reach me: https://www.linkedin.com/in/tomasescobar0223/
-- ⚡ Fun fact: I love to play and design guitars
+- ⚡ Fun fact: I love to play and design guitars.
 
 <!---
 Tomasescobar1/Tomasescobar1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
