@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tomas Escobar Ruiz!
 - 👀 I’m interested in computer science, math and CAD.
-- 🌱 I’m currently learning web development with JavaScript and ThreeJS.
+- 🌱 I’m currently learning Android development with Kotlin and Jetpack Compose.
 - 📫 How to reach me: https://www.linkedin.com/in/tomasescobar0223/
 - ⚡ Fun fact: I love to play and design guitars.
 
